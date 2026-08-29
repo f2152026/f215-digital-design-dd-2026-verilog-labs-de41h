@@ -16,7 +16,7 @@
 // the gate's output is transitioning 0->1 (rise) or 1->0 (fall) -- real
 // gates are rarely symmetric this way. Re-simulate with the SAME
 // ripple_adder.v and tb.v; nothing else needs to change.
-
+  
 module FA_Gate(
   input  a,
   input  b,
