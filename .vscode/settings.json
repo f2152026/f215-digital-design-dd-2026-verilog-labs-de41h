@@ -21,8 +21,5 @@
     "github.copilot.nextEditSuggestions.enabled": false,
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    },
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "main"
-    ]
+    }
 }
